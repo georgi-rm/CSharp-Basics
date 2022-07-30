@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01ExcellentResult", "P01Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02GreaterNumber", "P02GreaterNumber\P02GreaterNumber.csproj", "{A2AB802D-2227-4CFC-A65C-AC703D7EBCB5}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03EvenOrOdd", "P03EvenOrOdd\P03EvenOrOdd.csproj", "{063D8CF9-4DEA-40A7-86A3-F9D589F4F0CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A2AB802D-2227-4CFC-A65C-AC703D7EBCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2AB802D-2227-4CFC-A65C-AC703D7EBCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2AB802D-2227-4CFC-A65C-AC703D7EBCB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{063D8CF9-4DEA-40A7-86A3-F9D589F4F0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063D8CF9-4DEA-40A7-86A3-F9D589F4F0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063D8CF9-4DEA-40A7-86A3-F9D589F4F0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063D8CF9-4DEA-40A7-86A3-F9D589F4F0CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
